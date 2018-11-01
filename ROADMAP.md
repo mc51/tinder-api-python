@@ -16,7 +16,7 @@
 ### Readme
 - [ ] Project description
 - [ ] Background section
-- [ ] Install section
+- [x] Install section
 - [ ] Usage section
 - [ ] Example section
 - [ ] API section

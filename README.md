@@ -28,7 +28,11 @@
 
 ## Install
 
-<!-- TODO: Install section -->
+Install with pip:
+
+```
+pip install https://github.com/Vikash-Kothary/tinder-api-python/archive/v0.0.0.zip
+```
 
 ## Usage
 
